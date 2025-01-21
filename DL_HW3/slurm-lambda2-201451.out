@@ -1,0 +1,10 @@
+*** SLURM BATCH JOB 'test_job' STARTING ***
+*** Activating environment cs236781-hw ***
+[NbConvertApp] Converting notebook ./Part0_Intro.ipynb to notebook
+[NbConvertApp] Writing 2895 bytes to Part0_Intro.ipynb
+[NbConvertApp] Converting notebook ./Part1_Sequence.ipynb to notebook
+[NbConvertApp] Writing 246793 bytes to Part1_Sequence.ipynb
+[NbConvertApp] Converting notebook ./Part2_VAE.ipynb to notebook
+[NbConvertApp] Writing 1947366 bytes to Part2_VAE.ipynb
+[NbConvertApp] Converting notebook ./hw3-206064230_311179337.ipynb to html
+[NbConvertApp] Writing 2892978 bytes to hw3-206064230_311179337.html

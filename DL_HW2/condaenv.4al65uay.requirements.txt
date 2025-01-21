@@ -1,0 +1,2 @@
+nbmerge
+gym[atari,accept-rom-license,box2d]==0.21.0
